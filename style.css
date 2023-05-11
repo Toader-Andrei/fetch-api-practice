@@ -1,0 +1,14 @@
+.date-container {
+    border-radius: 50px 50px 0px 0px;
+    text-align: center;
+}
+.cursor-pointer {
+    cursor: pointer;
+    font-size: 25px;
+}
+.detele-button:hover {
+    color:red
+}
+.edit-button:hover {
+    color: greenyellow;
+}
